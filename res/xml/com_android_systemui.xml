@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="style/TextAppearance.StatusBar.IntruderAlert">@style/TextAppearance.StatusBar.IntruderAlert</item>
+    <item name="style/TextAppearance.StatusBar.TextButton">@style/TextAppearance.StatusBar.TextButton</item>
+    <item name="style/TextAppearance.StatusBar.Battery">@style/TextAppearance.StatusBar.Battery</item>
+    <item name="style/TextAppearance.StatusBar.Clock">@style/TextAppearance.StatusBar.Clock</item>
+    <item name="style/TextAppearance.StatusBar.Date">@style/TextAppearance.StatusBar.Date</item>
+    <item name="style/TextAppearance.StatusBar.Signal">@style/TextAppearance.StatusBar.Signal</item>
+    <item name="style/TextAppearance.StatusBar.Title">@style/TextAppearance.StatusBar.Title</item>
+    <item name="style/TextAppearance.StatusBar.SystemPanel">@style/TextAppearance.StatusBar.SystemPanel</item>
+    <item name="drawable/status_bar_background">@drawable/com_android_systemui_status_bar_background</item>
+    <item name="style/TextAppearance.StatusBar.Expanded.Date">@style/TextAppearance.StatusBar.Expanded.Date</item>
+    <item name="style/TextAppearance.StatusBar.Expanded.Clock">@style/TextAppearance.StatusBar.Expanded.Clock</item>
+    <item name="drawable/notification_panel_bg">@drawable/com_android_systemui_shade_bg</item>
+</resource-redirections>

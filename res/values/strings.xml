@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inverted Gummy</string>
+    <string name="theme_name">Inverted Gummy</string>
+    <string name="style_appearance_name">Inverted Gummy</string>
+    <string name="author">BboyTM_Chadfran84</string>
+    <string name="copyright">BboyTM_Chadfran84</string>
+    <string name="capital_on">ON</string>
+    <string name="capital_off">OFF</string>
+</resources>

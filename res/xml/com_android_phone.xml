@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/dial_background_texture">@drawable/com_android_phone_dial_background_texture</item>
+</resource-redirections>

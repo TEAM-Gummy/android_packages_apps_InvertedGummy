@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/med_gray" />
+    <item android:drawable="@drawable/com_android_vending_highlight_overlay" />
+</layer-list>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/appwidget_bg">@drawable/com_android_settings_appwidget_bg_holo</item>
+    <item name="color/ears_widget_bg">@color/bboyxparent20</item>
+    <item name="color/ears_widget_button_text">@color/white</item>
+    <item name="color/ears_widget_no_result_text">@color/red</item>
+</resource-redirections>

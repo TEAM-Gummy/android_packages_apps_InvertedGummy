@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/widget_background">@drawable/com_pandora_android_widget_background</item>
+    <item name="drawable/widget_pandora_logo">@drawable/com_pandora_android_widget_pandora_logo</item>
+    <item name="drawable/widget_watermark">@drawable/com_pandora_android_widget_watermark</item>
+    <item name="drawable/icon">@drawable/com_pandora_android_icon</item>
+    <item name="style/ic_launcher_calculator">@style/com_android_ic_launcher_calculator</item>
+    <item name="style/widget_start_text">@style/widget_start_text</item>
+    <item name="style/widget_song_name">@style/widget_song_name</item>
+    <item name="style/widget_artist_name">@style/widget_artist_name</item>
+    <item name="style/widget_text_style">@style/widget_text_style</item>
+</resource-redirections>

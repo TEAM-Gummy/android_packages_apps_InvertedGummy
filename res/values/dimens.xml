@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="com_google_android_apps_googlevoice_gf_padding">7.0dip</dimen>
+    <dimen name="com_google_android_apps_googlevoice_gf_list_item_padding">12.0dip</dimen>
+    <dimen name="com_google_android_apps_googlevoice_gf_twice_padding">14.0dip</dimen>
+    <dimen name="com_google_android_apps_googlevoice_gf_one_half_padding">8.0dip</dimen>
+    <dimen name="com_google_android_apps_googlevoice_gf_list_item_height">60.0dip</dimen>
+    <dimen name="com_google_android_apps_googlevoice_gf_standard_text_padding">16.0dip</dimen>
+    <dimen name="com_google_android_gallery3d_thumb_text_size">0.0sp</dimen>
+    <dimen name="com_google_android_gallery3d_thumb_text_padding">24.0dip</dimen>
+    <dimen name="com_google_android_gallery3d_switch_padding">4.0dip</dimen>
+    <dimen name="com_google_android_gallery3d_switch_min_width">72.0dip</dimen>
+    <dimen name="com_google_android_gallery3d_switch_text_max_width">-5.0dip</dimen>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/btn_keyboard_key_dark_normal_holo">@drawable/com_android_btn_keyboard_key_dark_normal_holo</item>
+    <item name="drawable/btn_keyboard_key_light_normal_holo">@drawable/com_android_btn_keyboard_key_light_normal_holo</item>
+    <item name="drawable/btn_keyboard_key_light_pressed_holo">@drawable/com_android_btn_keyboard_key_light_pressed_holo</item>
+    <item name="drawable/btn_keyboard_key_dark_pressed_holo">@drawable/com_android_btn_keyboard_key_dark_pressed_holo</item>
+    <item name="mipmap/ic_launcher_calculator">@mipmap/com_android_ic_launcher_calculator</item>
+    <item name="color/magic_flames">@color/con_section_header_text_color</item>
+    <item name="color/button_text">@color/con_section_header_text_color</item>
+    <item name="style/display_style">@style/display_style</item>
+    <item name="drawable/ic_menu_overflow">@drawable/frameworks_res_ic_menu_moreoverflow_normal_holo_dark</item>
+</resource-redirections>

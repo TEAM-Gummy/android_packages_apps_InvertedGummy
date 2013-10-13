@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme-redirections
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:pluto="http://www.w3.org/2001/pluto.html">
+    <package-redirections android:name="android" android:resource="@xml/android" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.dialer" android:resource="@xml/com_android_dialer" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.phone" android:resource="@xml/com_android_phone" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.contacts" android:resource="@xml/com_android_contacts" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.systemui" android:resource="@xml/com_android_systemui" android:minSdkVersion="7" />
+    <package-redirections android:name="com.google.android.gm" android:resource="@xml/com_google_android_gm" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.calculator2" android:resource="@xml/com_android_calculator2" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.inputmethod.latin" android:resource="@xml/com_android_inputmethod_latin" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.mms" android:resource="@xml/com_android_mms" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.email" android:resource="@xml/com_android_email" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.vending" android:resource="@xml/com_android_vending" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.calendar" android:resource="@xml/com_android_calendar" android:minSdkVersion="7" />
+    <package-redirections android:name="com.google.android.talk" android:resource="@xml/com_google_android_talk" android:minSdkVersion="7" />
+    <package-redirections android:name="com.google.android.inputmethod.latin" android:resource="@xml/com_google_android_inputmethod_latin" android:minSdkVersion="7" />
+</theme-redirections>
