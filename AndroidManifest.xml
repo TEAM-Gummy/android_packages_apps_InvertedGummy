@@ -23,7 +23,6 @@
     android:versionName="1.0.0" 
     package="com.android.InvertedGummy">
 
-
 <application 
     android:icon="@drawable/icon" 
     android:hasCode="false" 
@@ -33,7 +32,7 @@
     <uses-feature android:name="com.tmobile.software.themes" />
 
     <theme 
-        pluto:themeId="InvertedGum" 
+        pluto:themeId="InvertedGummy" 
         pluto:styleId="@style/InvertedGummy" 
         pluto:name="@string/theme_name" 
         pluto:preview="@drawable/preview" 
