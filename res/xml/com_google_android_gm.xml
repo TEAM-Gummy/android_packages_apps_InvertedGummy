@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
+    <item name="drawable/ab_bottom_solid_dark_holo">@drawable/com_google_android_gm_ab_bottom_solid_dark_holo.9.png</item>
+    <item name="drawable/ab_solid_dark_holo">@drawable/com_google_android_gm_ab_solid_dark_holo.9.png</item>
+    <item name="drawable/attachment_bg_holo">@drawable/com_google_android_gm_attachment_bg_holo.9.png</item>
+    <item name="drawable/banner_background_search">@drawable/com_google_android_gm_banner_background_search.9.png</item>
     <item name="drawable/list_read_holo">@drawable/com_google_android_gm_list_read_holo</item>
     <item name="drawable/list_unread_holo">@drawable/com_google_android_gm_list_unread_holo</item>
     <item name="style/ListViewWhiteCustom">@style/ListViewWhiteCustom</item>
     <item name="style/LightNoTitleBarTheme">@style/LightNoTitleBarTheme</item>
+    <item name="style/PlainActionBarStyle">@style/com_google_android_gm_PlainActionBarStyle</item>
     <item name="style/ComposeFieldLinearLayout">@style/ComposeFieldLinearLayout</item>
     <item name="style/ComposeTheme">@style/ComposeTheme</item>
     <item name="style/GmailHoloTheme">@style/GmailHoloTheme</item>
@@ -77,4 +82,7 @@
     <item name="drawable/list_div_top_btm_gmail_widget_holo">@drawable/com_android_mms_list_div_top_btm_mms_widget_holo</item>
     <item name="color/folder_name_color_primary_invertible">@color/com_google_android_gm_folder_name_color_primary_invertible</item>
     <item name="color/black_text">@color/com_google_android_gm_black_text</item>
+    <item name="color/list_background_color">@color/black</item>
+    <item name="color/solid_black">@color/black</item>
+    <item name="color/swiped_bg_color">@color/black</item>
 </resource-redirections>

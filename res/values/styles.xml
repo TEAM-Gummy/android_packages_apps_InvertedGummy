@@ -142,6 +142,7 @@
         <item name="android:textColor">@color/white</item>
     </style>
     <style name="ListViewWhiteCustom" parent="@*android:style/Widget.Holo.ListView" />
+    <style name="com_google_android_gm_PlainActionBarStyle" parent="@*android:style/Widget.Holo.ActionBar.Solid" />
     <style name="LightNoTitleBarTheme" parent="@*android:style/Theme.Black.NoTitleBar">
         <item name="android:windowContentOverlay">@null</item>
         <item name="android:listViewWhiteStyle">@*android:style/Widget.ListView</item>

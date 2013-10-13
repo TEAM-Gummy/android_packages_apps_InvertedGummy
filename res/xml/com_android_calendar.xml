@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
-    <item name="week_saturday">@color/saturday</item>
-    <item name="week_sunday">@color/sunday</item>
+    <item name="color/day_event_clicked_background_color">@color/day_event_clicked</item>
+    <item name="color/day_clicked_background_color">@color/day_clicked</item>
+    <item name="color/day_past_background_color">@color/black</item>
+    <item name="color/pressed">@color/pressed</item>
+    <item name="color/week_saturday">@color/saturday</item>
+    <item name="color/week_sunday">@color/sunday</item>
     <item name="color/panel_text_foreground">@color/bright_foreground_dark</item>
     <item name="color/month_grid_lines">@color/grid</item>
     <item name="color/agenda_list_separator_color">@color/bright_foreground_dark</item>

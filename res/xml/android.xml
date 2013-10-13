@@ -76,6 +76,8 @@
     <item name="drawable/cab_background_bottom_holo_light">@drawable/frameworks_res_cab_background_bottom_holo_light</item>
     <item name="drawable/cab_background_top_holo_dark">@drawable/frameworks_res_cab_background_top_holo_dark</item>
     <item name="drawable/cab_background_top_holo_light">@drawable/frameworks_res_cab_background_top_holo_light</item>
+    <item name="drawable/toast_frame">@drawable/frameworks_res_toast_frame.9.png</item>
+    <item name="drawable/toast_frame_holo">@drawable/frameworks_res_toast_frame_holo.9.png</item>
     <item name="drawable/default_wallpaper">@drawable/frameworks_res_default_wallpaper</item>
     <item name="drawable/tab_bottom_holo">@drawable/frameworks_res_tab_bottom_holo</item>
     <item name="drawable/dialog_bottom_holo_dark">@drawable/frameworks_res_dialog_bottom_holo_dark</item>
