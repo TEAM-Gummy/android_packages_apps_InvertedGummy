@@ -122,11 +122,16 @@
     <color name="dark_blue">#ffededed</color>
     <color name="dark_gray_cal">#ff080808</color>
 
-<!-- Calendar colors -->
+    <!-- Calendar colors -->
     <color name="grid">#966f6f6f</color>
     <color name="today_bg">#ff33b5e5</color>
     <color name="saturday">#ff33b5e5</color>
     <color name="sunday">#ff33b5e5</color>
     <color name="month_day_name">#ff111111</color>
     <color name="today">#ffffffff</color>
+    <color name="grid_line_inner">#966f6f6f</color>
+    <color name="calendar_future_bg">#ff000000</color>
+    <color name="hour_bg">#ff0a0a0a</color>
+    <color name="date_banner">#ff3eb0dd</color>
+    <color name="bg_color">#ff000000</color>
 </resources>
