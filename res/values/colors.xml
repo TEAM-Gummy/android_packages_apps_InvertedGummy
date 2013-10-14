@@ -112,7 +112,7 @@
     <color name="med_gray">#ff555555</color>
     <color name="orange">#fffea803</color>
     <color name="bg_pressed">#ff666666</color>
-    <color name="bg_focused">#ff888888</color>
+    <color name="bg_focused">#ff000000</color>
     <color name="mentioned">#40000000</color>
     <color name="pink">#ffff00ba</color>
     <color name="green">#ff33b5e5</color>
@@ -121,6 +121,7 @@
     <color name="blue_trans">#5033b5e5</color>
     <color name="dark_blue">#ffededed</color>
     <color name="dark_gray_cal">#ff080808</color>
+    <color name="holo">#FF33B5E5</color>
 
     <!-- Calendar colors -->
     <color name="grid">#966f6f6f</color>
