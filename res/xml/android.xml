@@ -4,7 +4,7 @@
     <item name="drawable/background_holo_dark">@drawable/frameworks_res_background_holo_dark</item>
     <item name="drawable/notify_panel_notification_icon_bg">@drawable/frameworks_res_notify_panel_notification_icon_bg</item>
     <item name="drawable/menu_submenu_background">@drawable/frameworks_res_menu_submenu_background</item>
-    <item name="drawable/dialog_full_holo_dark">@drawable/com_android_settings_appwidget_bg_holo</item>
+    <item name="drawable/dialog_full_holo_dark">@drawable/frameworks_res_dialog_full_holo_darK</item>
     <item name="drawable/menu_background_fill_parent_width">@drawable/frameworks_res_menu_background_fill_parent_width</item>
     <item name="drawable/menu_dropdown_panel_holo_dark">@drawable/frameworks_res_menu_dropdown_panel_holo_dark</item>
     <item name="drawable/dialog_top_holo_dark">@drawable/frameworks_res_dialog_top_holo_dark</item>
