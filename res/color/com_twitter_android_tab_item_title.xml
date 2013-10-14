@@ -4,5 +4,5 @@
     <item android:state_selected="true" android:state_pressed="true" android:color="@color/holo_green_light" />
     <item android:state_selected="false" android:state_pressed="true" android:color="@color/holo_green_light" />
     <item android:state_selected="true" android:color="@color/white" />
-    <item android:color="@color/lightest_gray" />
+    <item android:color="@color/black" />
 </selector>
