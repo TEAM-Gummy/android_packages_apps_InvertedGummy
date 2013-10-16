@@ -183,6 +183,13 @@
         <item name="android:textColor">@color/white</item>
     </style>
     <style name="ShortcutWidgetTheme" parent="@*android:style/Theme.Holo.DialogWhenLarge" />
+    <style name="com_google_android_gm_UnifiedEmailTheme" parent="@*android:style/Theme.Holo">
+        <item name="android:listViewWhiteStyle">@*android:style/Widget.Holo.ListView</item>
+        <item name="android:actionDropDownStyle">@style/com_google_android_gm_PlainSpinnerDropdown</item>
+    </style>
+    <style name="com_google_android_gm_PlainSpinnerDropdown" parent="@*android:style/Widget.Holo.Spinner">
+        <item name="android:background">@null</item>
+    </style>
     <style name="ComposeFieldLayout" parent="@*android:style/Widget.Holo.EditText">
         <item name="android:textColor">#ff33b5e5</item>
         <item name="android:gravity">center_vertical</item>
