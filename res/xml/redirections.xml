@@ -2,6 +2,7 @@
 <theme-redirections
   xmlns:android="http://schemas.android.com/apk/res/android" xmlns:pluto="http://www.w3.org/2001/pluto.html">
     <package-redirections android:name="android" android:resource="@xml/android" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.deskclock" android:resource="@xml/com_android_deskclock" android:minSdkVersion="7" />
     <package-redirections android:name="com.android.dialer" android:resource="@xml/com_android_dialer" android:minSdkVersion="7" />
     <package-redirections android:name="com.android.phone" android:resource="@xml/com_android_phone" android:minSdkVersion="7" />
     <package-redirections android:name="com.android.contacts" android:resource="@xml/com_android_contacts" android:minSdkVersion="7" />
