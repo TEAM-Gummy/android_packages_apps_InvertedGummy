@@ -16,4 +16,5 @@
     <package-redirections android:name="com.android.calendar" android:resource="@xml/com_android_calendar" android:minSdkVersion="7" />
     <package-redirections android:name="com.google.android.talk" android:resource="@xml/com_google_android_talk" android:minSdkVersion="7" />
     <package-redirections android:name="com.google.android.inputmethod.latin" android:resource="@xml/com_google_android_inputmethod_latin" android:minSdkVersion="7" />
+    <package-redirections android:name="net.cactii.flash2" android:resource="@xml/net_cactii_flash2" android:minSdkVersion="7" />
 </theme-redirections>

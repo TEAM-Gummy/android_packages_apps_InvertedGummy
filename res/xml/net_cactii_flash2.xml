@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/bulb_off">@drawable/net_cactii_flash2_bulb_off</item>
+    <item name="drawable/bulb_on">@drawable/net_cactii_flash2_bulb_on</item>
+    <item name="drawable/ic_appwidget_torch_off">@drawable/torch_ic_appwidget_torch_off</item>
+    <item name="drawable/ic_appwidget_torch_on">@drawable/torch_ic_appwidget_torch_on</item>
+    <item name="drawable/ic_menu_accept">@drawable/torch_ic_menu_accept</item>
+    <item name="drawable/icon">@drawable/net_cactii_flash2_icon</item>
+    <item name="drawable/notification_icon">@drawable/torch_notification_icon</item>
+</resource-redirections>
